@@ -1,0 +1,1 @@
+puts "webcampでプログラミン学習".inclued?(webcamp)
